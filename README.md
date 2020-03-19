@@ -3,5 +3,5 @@ NodeJsApp
 
 
 Clone and start by typing:
-´npm install´
-´npm start´ 
+`npm install`
+`npm start`
